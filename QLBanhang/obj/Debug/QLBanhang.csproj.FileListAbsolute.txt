@@ -1,0 +1,507 @@
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\roslyn\csc.exe
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\roslyn\System.Collections.Immutable.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\roslyn\vbc.exe
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\roslyn\VBCSCompiler.exe
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\roslyn\VBCSCompiler.exe.config
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\QLBanhang.dll.config
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\QLBanhang.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\QLBanhang.pdb
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Antlr3.Runtime.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\EntityFramework.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\EntityFramework.SqlServer.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.Owin.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Google.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.Web.Infrastructure.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Newtonsoft.Json.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Owin.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\System.Web.Helpers.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\System.Web.Mvc.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\System.Web.Optimization.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\System.Web.Razor.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\System.Web.WebPages.Deployment.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\System.Web.WebPages.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\System.Web.WebPages.Razor.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\WebGrease.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\System.Web.Helpers.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\System.Web.Mvc.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\System.Web.Optimization.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\System.Web.Razor.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\System.Web.WebPages.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\System.Web.WebPages.Deployment.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\System.Web.WebPages.Razor.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Antlr3.Runtime.pdb
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Newtonsoft.Json.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\EntityFramework.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\EntityFramework.SqlServer.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.Owin.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Google.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\obj\Debug\QLBanhang.dll
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\obj\Debug\QLBanhang.pdb
+D:\Tailieu\Lap trinh Web\Thuchanh\QLBanhang\QLBanhang\obj\Debug\QLBanhang.csprojResolveAssemblyReference.cache
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\csc.exe
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\System.Collections.Immutable.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\System.Reflection.Metadata.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\vbc.exe
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\VBCSCompiler.exe
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\VBCSCompiler.exe.config
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\QLBanhang.dll.config
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\QLBanhang.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\QLBanhang.pdb
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Antlr3.Runtime.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\EntityFramework.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\EntityFramework.SqlServer.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Google.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Web.Infrastructure.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Newtonsoft.Json.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Owin.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Helpers.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Mvc.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Optimization.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Razor.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.Deployment.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.Razor.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\WebGrease.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Helpers.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Mvc.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Optimization.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Razor.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.Deployment.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.Razor.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Antlr3.Runtime.pdb
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Newtonsoft.Json.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\EntityFramework.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\EntityFramework.SqlServer.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Google.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\obj\Debug\QLBanhang.csprojResolveAssemblyReference.cache
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\obj\Debug\QLBanhang.dll
+D:\MyLap\LTWeb\QLBanhang\QLBanhang\obj\Debug\QLBanhang.pdb
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\csc.exe
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\System.Collections.Immutable.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\vbc.exe
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\VBCSCompiler.exe
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\VBCSCompiler.exe.config
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\QLBanhang.dll.config
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\QLBanhang.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\QLBanhang.pdb
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Antlr3.Runtime.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\EntityFramework.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\EntityFramework.SqlServer.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Google.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Web.Infrastructure.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Newtonsoft.Json.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Owin.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Helpers.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Mvc.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Optimization.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Razor.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.Deployment.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.Razor.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\WebGrease.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Helpers.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Mvc.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Optimization.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Razor.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.Deployment.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.Razor.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Antlr3.Runtime.pdb
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Newtonsoft.Json.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\EntityFramework.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\EntityFramework.SqlServer.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Google.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\obj\Debug\QLBanhang.csproj.AssemblyReference.cache
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\obj\Debug\QLBanhang.csproj.CoreCompileInputs.cache
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\obj\Debug\QLBanhang.csproj.CopyComplete
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\obj\Debug\QLBanhang.dll
+E:\MyLap\LTWeb\QLBanhang\QLBanhang\obj\Debug\QLBanhang.pdb
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\csc.exe
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\System.Collections.Immutable.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\System.Reflection.Metadata.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\vbc.exe
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\VBCSCompiler.exe
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\roslyn\VBCSCompiler.exe.config
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\QLBanhang.dll.config
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\QLBanhang.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\QLBanhang.pdb
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Antlr3.Runtime.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\EntityFramework.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\EntityFramework.SqlServer.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Core.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Cookies.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Facebook.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Google.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.OAuth.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Twitter.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Web.Infrastructure.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Newtonsoft.Json.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Owin.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\PagedList.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\PagedList.Mvc.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Helpers.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Mvc.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Optimization.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Razor.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.Deployment.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.Razor.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\WebGrease.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\PagedList.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\PagedList.Mvc.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Helpers.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Mvc.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Optimization.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.Razor.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.Deployment.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.Razor.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Antlr3.Runtime.pdb
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Newtonsoft.Json.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\EntityFramework.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\EntityFramework.SqlServer.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Core.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Facebook.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Cookies.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.OAuth.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Google.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Twitter.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\obj\Debug\QLBanhang.csproj.CoreCompileInputs.cache
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\obj\Debug\QLBanhang.csproj.CopyComplete
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\obj\Debug\QLBanhang.dll
+F:\MyLap\LTWeb\QLBanhang\QLBanhang\obj\Debug\QLBanhang.pdb
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\roslyn\csc.exe
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\roslyn\System.Collections.Immutable.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\roslyn\System.Reflection.Metadata.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\roslyn\vbc.exe
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\roslyn\VBCSCompiler.exe
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\roslyn\VBCSCompiler.exe.config
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\QLBanhang.dll.config
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\QLBanhang.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\QLBanhang.pdb
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Antlr3.Runtime.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\EntityFramework.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\EntityFramework.SqlServer.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Google.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.Web.Infrastructure.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Newtonsoft.Json.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Owin.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\PagedList.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\PagedList.Mvc.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\System.Web.Helpers.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\System.Web.Mvc.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\System.Web.Optimization.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\System.Web.Razor.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.Deployment.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.Razor.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\WebGrease.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\PagedList.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\PagedList.Mvc.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\System.Web.Helpers.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\System.Web.Mvc.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\System.Web.Optimization.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\System.Web.Razor.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.Deployment.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\System.Web.WebPages.Razor.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Antlr3.Runtime.pdb
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Newtonsoft.Json.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\EntityFramework.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\EntityFramework.SqlServer.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Google.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\obj\Debug\QLBanhang.csproj.CoreCompileInputs.cache
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\obj\Debug\QLBanhang.csproj.CopyComplete
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\obj\Debug\QLBanhang.dll
+D:\MyLap\LapTrinhWeb\QLBanhang\QLBanhang\obj\Debug\QLBanhang.pdb
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\csc.exe
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\vbc.exe
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\VBCSCompiler.exe
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\QLBanhang.dll.config
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\QLBanhang.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\QLBanhang.pdb
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Antlr3.Runtime.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\EntityFramework.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\EntityFramework.SqlServer.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Newtonsoft.Json.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Owin.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\PagedList.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\PagedList.Mvc.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.Helpers.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.Mvc.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.Optimization.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.Razor.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.WebPages.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.WebPages.Razor.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\WebGrease.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\PagedList.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\PagedList.Mvc.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.Helpers.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.Mvc.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.Optimization.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.Razor.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.WebPages.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.WebPages.Razor.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Antlr3.Runtime.pdb
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Newtonsoft.Json.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\EntityFramework.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\EntityFramework.SqlServer.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\obj\Debug\QLBanhang.csproj.AssemblyReference.cache
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\obj\Debug\QLBanhang.csproj.CoreCompileInputs.cache
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\obj\Debug\QLBanhang.csproj.CopyComplete
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\obj\Debug\QLBanhang.dll
+C:\Users\BaoBao\Desktop\QLBanhang-Share\QLBanhang\QLBanhang\obj\Debug\QLBanhang.pdb
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\csc.exe
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\System.Collections.Immutable.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\System.Reflection.Metadata.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\vbc.exe
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\VBCSCompiler.exe
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\roslyn\VBCSCompiler.exe.config
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\QLBanhang.dll.config
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\QLBanhang.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\QLBanhang.pdb
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Antlr3.Runtime.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\EntityFramework.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\EntityFramework.SqlServer.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Google.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Web.Infrastructure.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Newtonsoft.Json.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Owin.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\PagedList.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\PagedList.Mvc.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.Helpers.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.Mvc.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.Optimization.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.Razor.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.WebPages.Deployment.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.WebPages.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.WebPages.Razor.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\WebGrease.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\PagedList.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\PagedList.Mvc.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.Helpers.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.Mvc.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.Optimization.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.Razor.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.WebPages.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.WebPages.Deployment.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\System.Web.WebPages.Razor.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Antlr3.Runtime.pdb
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Newtonsoft.Json.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\EntityFramework.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\EntityFramework.SqlServer.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Google.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\obj\Debug\QLBanhang.csproj.AssemblyReference.cache
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\obj\Debug\QLBanhang.csproj.CoreCompileInputs.cache
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\obj\Debug\QLBanhang.csproj.CopyComplete
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\obj\Debug\QLBanhang.dll
+D:\Subjects\Web-Application-Development\QLBanhang-Share\QLBanhang\QLBanhang\obj\Debug\QLBanhang.pdb
